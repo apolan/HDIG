@@ -16,7 +16,7 @@ Al revisar la lista de "distinctive words",
  ¿ve alguna forma de acotar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
 
 # Reflexión
-
+En el proceso de investigación encuentro palabras comunes que ya encontraba en mi campo de investigación por lo que me planteo sobre el tipo de información en las referencias bibliográficas. Por otro lado, en el caso de “distintive Word“ si hay encuentro conceptos interesantes como historia del derecho, privacidad y  patrones. Hay un etiqueta interesante que es la “metadata”. Por lo que en esta etapa inicial del proyecto me concentrare en la construcción de mecanismos para la generación de metadata en los documentos legales analizados.
 
 ## Palabras clave más comunes
 
